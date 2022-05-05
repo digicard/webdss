@@ -1,0 +1,40 @@
+{
+  "background_color": "#00B0FF",
+  "description": "Digicard Self Service",
+  "display": "standalone",
+  "lang": "en",
+  "name": "dSS",
+  "short_name": "dSS",
+  "start_url": "/?utm_source=web_app_manifest",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "com.digicard.dss"
+    },
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=com.digicard.dss",
+      "id": "com.digicard.dss"
+    }
+  ],
+  "prefer_related_applications": true,
+  "icons": [
+    {
+      "src": "/webdss/pwa/chrome-icon/chrome-icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/webdss/pwa/chrome-icon/chrome-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/webdss/pwa/chrome-icon/chrome-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

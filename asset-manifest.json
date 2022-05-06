@@ -4,8 +4,8 @@
     "app.js.map": "/webdss/static/js/app.6c61d0f4.chunk.js.map",
     "runtime~app.js": "/webdss/static/js/runtime~app.0fa88361.js",
     "runtime~app.js.map": "/webdss/static/js/runtime~app.0fa88361.js.map",
-    "static/js/2.e41d03f2.chunk.js": "/webdss/static/js/2.e41d03f2.chunk.js",
-    "static/js/2.e41d03f2.chunk.js.map": "/webdss/static/js/2.e41d03f2.chunk.js.map",
+    "static/js/2.8827b1e5.chunk.js": "/webdss/static/js/2.8827b1e5.chunk.js",
+    "static/js/2.8827b1e5.chunk.js.map": "/webdss/static/js/2.8827b1e5.chunk.js.map",
     "fonts/AntDesign.ttf": "/webdss/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/webdss/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/webdss/./fonts/Feather.ttf",
@@ -43,7 +43,7 @@
     "manifest.json": "/webdss/manifest.json",
     "popup.html": "/webdss/popup.html",
     "serve.json": "/webdss/serve.json",
-    "static/js/2.e41d03f2.chunk.js.LICENSE.txt": "/webdss/static/js/2.e41d03f2.chunk.js.LICENSE.txt",
+    "static/js/2.8827b1e5.chunk.js.LICENSE.txt": "/webdss/static/js/2.8827b1e5.chunk.js.LICENSE.txt",
     "static/media/AppIconPlaceholder.png": "/webdss/static/media/AppIconPlaceholder.efb5f28b.png",
     "static/media/AppScreenshotPlaceholder.png": "/webdss/static/media/AppScreenshotPlaceholder.e9ae5b3a.png",
     "static/media/BarraAzul.png": "/webdss/static/media/BarraAzul.0bc519c9.png",
@@ -99,7 +99,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.0fa88361.js",
-    "static/js/2.e41d03f2.chunk.js",
+    "static/js/2.8827b1e5.chunk.js",
     "static/js/app.6c61d0f4.chunk.js"
   ]
 }

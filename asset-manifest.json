@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/webdss/static/js/app.488692ec.chunk.js",
-    "app.js.map": "/webdss/static/js/app.488692ec.chunk.js.map",
+    "app.js": "/webdss/static/js/app.52e62abc.chunk.js",
+    "app.js.map": "/webdss/static/js/app.52e62abc.chunk.js.map",
     "runtime~app.js": "/webdss/static/js/runtime~app.0fa88361.js",
     "runtime~app.js.map": "/webdss/static/js/runtime~app.0fa88361.js.map",
     "static/js/2.664cbb11.chunk.js": "/webdss/static/js/2.664cbb11.chunk.js",
@@ -100,6 +100,6 @@
   "entrypoints": [
     "static/js/runtime~app.0fa88361.js",
     "static/js/2.664cbb11.chunk.js",
-    "static/js/app.488692ec.chunk.js"
+    "static/js/app.52e62abc.chunk.js"
   ]
 }

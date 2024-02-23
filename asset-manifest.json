@@ -1,12 +1,14 @@
 {
   "files": {
-    "main.js": "/webdss/static/js/main.25ae79a6.js",
-    "static/js/387.dd3b6685.js": "/webdss/static/js/387.dd3b6685.js",
+    "main.js": "/webdss/static/js/main.bdd44f43.js",
+    "static/js/93.322a6b26.js": "/webdss/static/js/93.322a6b26.js",
     "static/media/MaterialCommunityIcons.ttf": "/webdss/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Fontisto.ttf": "/webdss/static/media/Fontisto.c0edd68811e0237502fe.ttf",
     "static/media/Ionicons.ttf": "/webdss/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
     "static/media/MaterialIcons.ttf": "/webdss/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
     "static/media/FontAwesome5_Solid.ttf": "/webdss/static/media/FontAwesome5_Solid.07c3313b24f7b1ca85ee.ttf",
+    "static/media/Montserrat_600SemiBold.ttf": "/webdss/static/media/Montserrat_600SemiBold.93b37a465fc4ec0d0415.ttf",
+    "static/media/Montserrat_500Medium.ttf": "/webdss/static/media/Montserrat_500Medium.b8c6753baa964ccac1ba.ttf",
     "static/media/FontAwesome.ttf": "/webdss/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
     "static/media/Loader2562B92FB.gif": "/webdss/static/media/Loader2562B92FB.a7ab7bffa7bc66517469.gif",
     "static/media/Destacadas1170954.png": "/webdss/static/media/Destacadas1170954.1e756b3ab2a9e51140ce.png",
@@ -87,11 +89,11 @@
     "favicon-16.png": "/webdss/favicon-16.png",
     "popup.html": "/webdss/popup.html",
     "serve.json": "/webdss/serve.json",
-    "main.25ae79a6.js.map": "/webdss/static/js/main.25ae79a6.js.map",
-    "387.dd3b6685.js.map": "/webdss/static/js/387.dd3b6685.js.map"
+    "main.bdd44f43.js.map": "/webdss/static/js/main.bdd44f43.js.map",
+    "93.322a6b26.js.map": "/webdss/static/js/93.322a6b26.js.map"
   },
   "entrypoints": [
-    "static/js/387.dd3b6685.js",
-    "static/js/main.25ae79a6.js"
+    "static/js/93.322a6b26.js",
+    "static/js/main.bdd44f43.js"
   ]
 }

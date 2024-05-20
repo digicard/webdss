@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/webdss/static/js/main.c9672fb0.js",
-    "static/js/128.96a094b2.js": "/webdss/static/js/128.96a094b2.js",
+    "main.js": "/webdss/static/js/main.9fd13698.js",
+    "static/js/128.9f3f15ad.js": "/webdss/static/js/128.9f3f15ad.js",
     "static/media/MaterialCommunityIcons.ttf": "/webdss/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Fontisto.ttf": "/webdss/static/media/Fontisto.c0edd68811e0237502fe.ttf",
     "static/media/Ionicons.ttf": "/webdss/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
@@ -89,11 +89,11 @@
     "favicon-16.png": "/webdss/favicon-16.png",
     "popup.html": "/webdss/popup.html",
     "serve.json": "/webdss/serve.json",
-    "main.c9672fb0.js.map": "/webdss/static/js/main.c9672fb0.js.map",
-    "128.96a094b2.js.map": "/webdss/static/js/128.96a094b2.js.map"
+    "main.9fd13698.js.map": "/webdss/static/js/main.9fd13698.js.map",
+    "128.9f3f15ad.js.map": "/webdss/static/js/128.9f3f15ad.js.map"
   },
   "entrypoints": [
-    "static/js/128.96a094b2.js",
-    "static/js/main.c9672fb0.js"
+    "static/js/128.9f3f15ad.js",
+    "static/js/main.9fd13698.js"
   ]
 }

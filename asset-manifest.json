@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/webdss/static/js/main.9bbcd2b7.js",
+    "main.js": "/webdss/static/js/main.d39edaca.js",
     "static/js/441.d2faa46e.chunk.js": "/webdss/static/js/441.d2faa46e.chunk.js",
-    "static/js/955.7f02aecb.chunk.js": "/webdss/static/js/955.7f02aecb.chunk.js",
+    "static/js/955.e2c33fea.chunk.js": "/webdss/static/js/955.e2c33fea.chunk.js",
     "static/js/442.987c960a.chunk.js": "/webdss/static/js/442.987c960a.chunk.js",
     "static/js/172.17c8e3fa.chunk.js": "/webdss/static/js/172.17c8e3fa.chunk.js",
     "static/js/843.45359ab0.chunk.js": "/webdss/static/js/843.45359ab0.chunk.js",
@@ -12,16 +12,16 @@
     "static/js/810.472dc3fc.chunk.js": "/webdss/static/js/810.472dc3fc.chunk.js",
     "static/js/372.a11cb5ae.chunk.js": "/webdss/static/js/372.a11cb5ae.chunk.js",
     "static/js/364.e21511d0.chunk.js": "/webdss/static/js/364.e21511d0.chunk.js",
-    "static/js/900.a3cd6d9b.js": "/webdss/static/js/900.a3cd6d9b.js",
+    "static/js/900.5f40d824.js": "/webdss/static/js/900.5f40d824.js",
     "static/media/MaterialCommunityIcons.ttf": "/webdss/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Ionicons.ttf": "/webdss/static/media/Ionicons.9b6b1954a5eb6efeaf11.ttf",
-    "static/media/FontAwesome6_Solid.ttf": "/webdss/static/media/FontAwesome6_Solid.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/FontAwesome6_Solid.ttf": "/webdss/static/media/FontAwesome6_Solid.07ed6d5fa32c1d54af0f.ttf",
     "static/media/MaterialIcons.ttf": "/webdss/static/media/MaterialIcons.f20305dee9d396fea5c7.ttf",
     "static/media/Fontisto.ttf": "/webdss/static/media/Fontisto.c0edd68811e0237502fe.ttf",
+    "static/media/FontAwesome6_Brands.ttf": "/webdss/static/media/FontAwesome6_Brands.0ff70dcbf135d859ebf3.ttf",
     "static/media/FontAwesome5_Solid.ttf": "/webdss/static/media/FontAwesome5_Solid.07c3313b24f7b1ca85ee.ttf",
     "static/media/Montserrat_600SemiBold.ttf": "/webdss/static/media/Montserrat_600SemiBold.93b37a465fc4ec0d0415.ttf",
     "static/media/Montserrat_500Medium.ttf": "/webdss/static/media/Montserrat_500Medium.b8c6753baa964ccac1ba.ttf",
-    "static/media/FontAwesome6_Brands.ttf": "/webdss/static/media/FontAwesome6_Brands.016b4a6cdced82ab3aa1.ttf",
     "static/media/FontAwesome.ttf": "/webdss/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
     "static/media/Loader2562B92FB.gif": "/webdss/static/media/Loader2562B92FB.a7ab7bffa7bc66517469.gif",
     "static/media/Destacadas1170954.png": "/webdss/static/media/Destacadas1170954.1e756b3ab2a9e51140ce.png",
@@ -39,8 +39,8 @@
     "static/media/UndrawRequest.png": "/webdss/static/media/UndrawRequest.5e858b54c6df7947fc9e.png",
     "static/media/UndrawWinnersAo2o.png": "/webdss/static/media/UndrawWinnersAo2o.3946366f69e68eb87d57.png",
     "static/media/AntDesign.ttf": "/webdss/static/media/AntDesign.163adab9dbd7cb1ed12a.ttf",
+    "static/media/FontAwesome6_Regular.ttf": "/webdss/static/media/FontAwesome6_Regular.17a6e1aebccdbaa39e78.ttf",
     "static/media/Entypo.ttf": "/webdss/static/media/Entypo.fc6169344c041cffcdae.ttf",
-    "static/media/FontAwesome6_Regular.ttf": "/webdss/static/media/FontAwesome6_Regular.50701fbb8177c2dde530.ttf",
     "static/media/UndrawLunch.png": "/webdss/static/media/UndrawLunch.5efcbd314ebfde7c4e9d.png",
     "static/media/Image20210630121543.png": "/webdss/static/media/Image20210630121543.5e37a850a3084b033af6.png",
     "static/media/Foundation.ttf": "/webdss/static/media/Foundation.c0cbb004854f9c746f89.ttf",
@@ -108,13 +108,13 @@
     "favicon-16.png": "/webdss/favicon-16.png",
     "popup.html": "/webdss/popup.html",
     "serve.json": "/webdss/serve.json",
-    "main.9bbcd2b7.js.map": "/webdss/static/js/main.9bbcd2b7.js.map",
+    "main.d39edaca.js.map": "/webdss/static/js/main.d39edaca.js.map",
     "441.d2faa46e.chunk.js.map": "/webdss/static/js/441.d2faa46e.chunk.js.map",
-    "955.7f02aecb.chunk.js.map": "/webdss/static/js/955.7f02aecb.chunk.js.map",
-    "900.a3cd6d9b.js.map": "/webdss/static/js/900.a3cd6d9b.js.map"
+    "955.e2c33fea.chunk.js.map": "/webdss/static/js/955.e2c33fea.chunk.js.map",
+    "900.5f40d824.js.map": "/webdss/static/js/900.5f40d824.js.map"
   },
   "entrypoints": [
-    "static/js/900.a3cd6d9b.js",
-    "static/js/main.9bbcd2b7.js"
+    "static/js/900.5f40d824.js",
+    "static/js/main.d39edaca.js"
   ]
 }

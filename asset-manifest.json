@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/webdss/static/js/main.2138e420.js",
+    "main.js": "/webdss/static/js/main.2f99fa06.js",
     "static/js/441.d2faa46e.chunk.js": "/webdss/static/js/441.d2faa46e.chunk.js",
-    "static/js/955.e252e498.chunk.js": "/webdss/static/js/955.e252e498.chunk.js",
+    "static/js/955.c61f9982.chunk.js": "/webdss/static/js/955.c61f9982.chunk.js",
     "static/js/442.987c960a.chunk.js": "/webdss/static/js/442.987c960a.chunk.js",
     "static/js/172.17c8e3fa.chunk.js": "/webdss/static/js/172.17c8e3fa.chunk.js",
     "static/js/843.45359ab0.chunk.js": "/webdss/static/js/843.45359ab0.chunk.js",
@@ -12,7 +12,7 @@
     "static/js/810.472dc3fc.chunk.js": "/webdss/static/js/810.472dc3fc.chunk.js",
     "static/js/372.a11cb5ae.chunk.js": "/webdss/static/js/372.a11cb5ae.chunk.js",
     "static/js/364.e21511d0.chunk.js": "/webdss/static/js/364.e21511d0.chunk.js",
-    "static/js/448.ef168610.js": "/webdss/static/js/448.ef168610.js",
+    "static/js/448.c7fbba36.js": "/webdss/static/js/448.c7fbba36.js",
     "static/media/MaterialCommunityIcons.ttf": "/webdss/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Ionicons.ttf": "/webdss/static/media/Ionicons.9b6b1954a5eb6efeaf11.ttf",
     "static/media/FontAwesome6_Solid.ttf": "/webdss/static/media/FontAwesome6_Solid.07ed6d5fa32c1d54af0f.ttf",
@@ -36,6 +36,7 @@
     "static/media/UndrawDoctor.png": "/webdss/static/media/UndrawDoctor.1010ea5cf2fb96648f9c.png",
     "static/media/Image20210706121113.png": "/webdss/static/media/Image20210706121113.e36bea4b55b34d1f6bd1.png",
     "static/media/Restaurant.png": "/webdss/static/media/Restaurant.001499abd97c0757a5f5.png",
+    "static/media/LoactionFinding.gif": "/webdss/static/media/LoactionFinding.6f7a2b7c31e9622df863.gif",
     "static/media/UndrawRequest.png": "/webdss/static/media/UndrawRequest.5e858b54c6df7947fc9e.png",
     "static/media/UndrawWinnersAo2o.png": "/webdss/static/media/UndrawWinnersAo2o.3946366f69e68eb87d57.png",
     "static/media/AntDesign.ttf": "/webdss/static/media/AntDesign.163adab9dbd7cb1ed12a.ttf",
@@ -108,13 +109,13 @@
     "favicon-16.png": "/webdss/favicon-16.png",
     "popup.html": "/webdss/popup.html",
     "serve.json": "/webdss/serve.json",
-    "main.2138e420.js.map": "/webdss/static/js/main.2138e420.js.map",
+    "main.2f99fa06.js.map": "/webdss/static/js/main.2f99fa06.js.map",
     "441.d2faa46e.chunk.js.map": "/webdss/static/js/441.d2faa46e.chunk.js.map",
-    "955.e252e498.chunk.js.map": "/webdss/static/js/955.e252e498.chunk.js.map",
-    "448.ef168610.js.map": "/webdss/static/js/448.ef168610.js.map"
+    "955.c61f9982.chunk.js.map": "/webdss/static/js/955.c61f9982.chunk.js.map",
+    "448.c7fbba36.js.map": "/webdss/static/js/448.c7fbba36.js.map"
   },
   "entrypoints": [
-    "static/js/448.ef168610.js",
-    "static/js/main.2138e420.js"
+    "static/js/448.c7fbba36.js",
+    "static/js/main.2f99fa06.js"
   ]
 }
